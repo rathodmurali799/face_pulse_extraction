@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+pillow
+numpy
+pandas
+scipy
+matplotlib
+scipy
+deque
+scikit-learn
