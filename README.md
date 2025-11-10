@@ -1,4 +1,6 @@
 💓 Face Pulse Wave Extraction
+
+
 Using MediaPipe, OpenCV, and Tkinter GUI
 This project detects a person’s face using a webcam or video file and extracts a pulse wave signal by tracking subtle color changes on the skin.
 It uses MediaPipe Face Mesh for facial landmark detection, YCgCo color conversion for green-channel analysis, and a Tkinter GUI for real-time visualization.
